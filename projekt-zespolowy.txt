@@ -1,0 +1,9 @@
+1. ustalenie godzin, zasady zaliczania, obecnosci, pomocy itd. (pozniej w pliku pdf w repozytorium git)
+2. zajawka o git
+3. zakladamy konta na GitHub
+4. klonowanie repozytorium z GitHub (git-manual-pro.pdf, git-manual-example.pdf, cheatsheet.pdf, zasady-zaliczania.pdf, projekty.pdf, itd.)
+5. przejrzenie manuala git-a, cheatsheet-a
+6. podzial na grupy (=> 2 osobowe), utworzenie plikow team-1.txt z nazwiskami i mailami czlonkow zespolow, wyslanie do repozytorium
+7. utworzenie folderu test-1, napisanie "Hello World" i kompilacja
+8. wyslanie zmian do repozytorium
+9. omowienie propozycji projektow projekty.txt/projekty.pdf i sposobu ich realizacji (wybor jezyka C/C++, Fortran, Python, struktury modulowej, dokumentacji); wszystkie projekty beda mialy podobna strukture input(dane)---> program liczacy ---> output(dane)
