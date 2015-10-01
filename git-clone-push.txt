@@ -1,24 +1,21 @@
-git config --global user.email "roman.optiplex@gmail.com"
-git config --global user.name "roman-optiplex"
+git config --global user.email "imie.nazwisko@gmail.com"
+git config --global user.name "imie-nazwisko"
 cd
-git clone https://github.com/tjel/infpro-0.git 
-cd infpro-0
-echo "roman-optiplex, roman.optiplex@gmail.com" >> team-0.txt
+git clone https://github.com/tjel/infpro-N.git 
+cd infpro-N
+echo "imie nazwisko" >> team-N.txt
+pico team-N.txt
 git status
-git add team-0.txt
-git commit -m "List of members of team-0 added to team-0.txt."
+git add team-N.txt
+git commit -m "List of members of team-N added to team-N.txt."
 git push
-
-
+cd hello
 echo "#" >> hello.cc
-// 'Hello World!' program 
- 
-#include <iostream>
- 
-int main()
-{
-  std::cout << "Hello World!" << std::endl;
-  return 0;
-}
+pico hello.cc
 g++ hello.cc -o hello
 gcc hello.cc -o hello -lstdc++
+git status
+git add -A
+git commit -m "hello.cc added."
+git push
+git status
