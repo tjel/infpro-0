@@ -12,5 +12,7 @@ cout << "Hello World! MBP is better than roman-optiplex." << endl;
 cout << "Hellow World 5.1!" << endl;
 cout << "This is the end?"
 cout << "Not really."
+cout << "OK. Let's give it a shot."
+cout << "Hello World 6!" <<endl;
 return 0;
 }
