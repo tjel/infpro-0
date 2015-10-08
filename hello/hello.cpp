@@ -14,7 +14,8 @@ cout << "This is the end?"
 cout << "Not really."
 cout << "OK. Let's give it a shot."
 cout << "Hello World 6.1!" <<endl;
-//some comments blah blah blah
+// some comments blah blah blah
 // comments 2
+// comments 3
 return 0;
 }
