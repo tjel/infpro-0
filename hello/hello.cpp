@@ -13,6 +13,6 @@ cout << "Hellow World 5.1!" << endl;
 cout << "This is the end?"
 cout << "Not really."
 cout << "OK. Let's give it a shot."
-cout << "Hello World 6!" <<endl;
+cout << "Hello World 6.1!" <<endl;
 return 0;
 }
