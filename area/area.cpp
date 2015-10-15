@@ -8,6 +8,6 @@ int main( )
     double rad; 
     cout<< "Enter the radius: "; 
     cin>>rad; 
-    cout<< "Area of the circle is: "<< PI * rad * rad; 
+    cout<< "Area of the circle is: "<< PI * rad * rad << endl; 
     return 0;
 }  
