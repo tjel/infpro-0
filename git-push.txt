@@ -1,0 +1,9 @@
+cd
+mkdir infpro-N
+cd infpro-N
+
+git init
+git add -A
+git commit -m "Bunch of files added."
+git remote add origin https://github.com/tjel/infpro-N.git
+git push -u origin master

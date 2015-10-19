@@ -1,0 +1,8 @@
+ulepszyc kod w area.cpp
+- dodac odstep i znak ":" po 'Enter the radius'
+- dodac lamanie lini (<<endl) po wyniku 
+- jednostki?
+- zwiekszyc dokladnosc 'PI'
+- co sie stanie gdy wpiszemy np. rad = -2 albo rad = 2.8
+- zmienic typ zmiennej 'rad' na 'double'
+- dopisac 'if' do obslugi r<0; 'Radius has to be a positive real number. Please correct your input.' 
